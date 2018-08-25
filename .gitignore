@@ -2,7 +2,6 @@ tigerz.github.io
 webroot
 # .gitignore_global
 doc
-lib
 package-lock.json
 ####################################
 ######## npm files ########
