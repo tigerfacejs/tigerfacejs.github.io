@@ -1,0 +1,38 @@
+tigerz.github.io
+webroot
+# .gitignore_global
+doc
+lib
+package-lock.json
+####################################
+######## npm files ########
+####################################
+node_modules
+
+####################################
+######## OS generated files ########
+####################################
+.DS_Store
+.DS_Store?
+.idea
+.idea?
+*.swp
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+####################################
+############# packages #############
+####################################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
