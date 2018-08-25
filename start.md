@@ -1,6 +1,6 @@
 # tigerface.js
 
-感谢你对 tigerface.js 感兴趣。
+感谢你对 tigerface.js 感兴趣！
 
 tigerface.js 的当前版本，正在加紧重构中，代码和文档每天都在变化中，希望很快会发布稳定正式版本。\[[更新日志](./doc/log.md "更新日志")\]
 
