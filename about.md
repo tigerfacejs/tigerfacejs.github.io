@@ -10,4 +10,4 @@ tigerface.js 从 2014 年第一版到现在，代码风格变化很大。现在�
 这个网站是 2018 年开始重构项目时新建的，页面只是简单引用了 Bootstrap，文档都是用 markdown 写的，
 我让 marked.js 支持嵌入 tigerface.js 动画，所以文档里的插图除几张屏幕截图外，都是实时绘制的，比直接
 在 GitHub 上看文档，图文效果更好。代码还在重构，文档和范例还在不停的写，请你常来看看，每天都有变化。
-旧网站还在 [tigerfacejs.org](http://www.tigerfacejs.org)，里面有更多例子。
+旧网站还在 [www.tigerfacejs.org](http://www.tigerfacejs.org)，里面有更多例子。
